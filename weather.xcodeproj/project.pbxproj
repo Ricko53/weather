@@ -13,6 +13,16 @@
 		9B4B59361A4ADB46004DE2A3 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9B4B59351A4ADB46004DE2A3 /* Images.xcassets */; };
 		9B4B59391A4ADB46004DE2A3 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 9B4B59371A4ADB46004DE2A3 /* LaunchScreen.xib */; };
 		9B4B59451A4ADB46004DE2A3 /* weatherTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B4B59441A4ADB46004DE2A3 /* weatherTests.swift */; };
+		9BED9F341A4EAC0A00CC2015 /* could.png in Resources */ = {isa = PBXBuildFile; fileRef = 9BED9F2A1A4EAC0A00CC2015 /* could.png */; };
+		9BED9F351A4EAC0A00CC2015 /* could@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 9BED9F2B1A4EAC0A00CC2015 /* could@2x.png */; };
+		9BED9F361A4EAC0A00CC2015 /* frost.png in Resources */ = {isa = PBXBuildFile; fileRef = 9BED9F2C1A4EAC0A00CC2015 /* frost.png */; };
+		9BED9F371A4EAC0A00CC2015 /* frost@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 9BED9F2D1A4EAC0A00CC2015 /* frost@2x.png */; };
+		9BED9F381A4EAC0A00CC2015 /* rain.png in Resources */ = {isa = PBXBuildFile; fileRef = 9BED9F2E1A4EAC0A00CC2015 /* rain.png */; };
+		9BED9F391A4EAC0A00CC2015 /* rain@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 9BED9F2F1A4EAC0A00CC2015 /* rain@2x.png */; };
+		9BED9F3A1A4EAC0A00CC2015 /* sun.png in Resources */ = {isa = PBXBuildFile; fileRef = 9BED9F301A4EAC0A00CC2015 /* sun.png */; };
+		9BED9F3B1A4EAC0A00CC2015 /* sun@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 9BED9F311A4EAC0A00CC2015 /* sun@2x.png */; };
+		9BED9F3C1A4EAC0A00CC2015 /* thunder.png in Resources */ = {isa = PBXBuildFile; fileRef = 9BED9F321A4EAC0A00CC2015 /* thunder.png */; };
+		9BED9F3D1A4EAC0A00CC2015 /* thunder@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 9BED9F331A4EAC0A00CC2015 /* thunder@2x.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +46,16 @@
 		9B4B593E1A4ADB46004DE2A3 /* weatherTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = weatherTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		9B4B59431A4ADB46004DE2A3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		9B4B59441A4ADB46004DE2A3 /* weatherTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = weatherTests.swift; sourceTree = "<group>"; };
+		9BED9F2A1A4EAC0A00CC2015 /* could.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = could.png; sourceTree = "<group>"; };
+		9BED9F2B1A4EAC0A00CC2015 /* could@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "could@2x.png"; sourceTree = "<group>"; };
+		9BED9F2C1A4EAC0A00CC2015 /* frost.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = frost.png; sourceTree = "<group>"; };
+		9BED9F2D1A4EAC0A00CC2015 /* frost@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "frost@2x.png"; sourceTree = "<group>"; };
+		9BED9F2E1A4EAC0A00CC2015 /* rain.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = rain.png; sourceTree = "<group>"; };
+		9BED9F2F1A4EAC0A00CC2015 /* rain@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "rain@2x.png"; sourceTree = "<group>"; };
+		9BED9F301A4EAC0A00CC2015 /* sun.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = sun.png; sourceTree = "<group>"; };
+		9BED9F311A4EAC0A00CC2015 /* sun@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "sun@2x.png"; sourceTree = "<group>"; };
+		9BED9F321A4EAC0A00CC2015 /* thunder.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = thunder.png; sourceTree = "<group>"; };
+		9BED9F331A4EAC0A00CC2015 /* thunder@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "thunder@2x.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -80,6 +100,7 @@
 				9B4B592E1A4ADB46004DE2A3 /* AppDelegate.swift */,
 				9B4B59301A4ADB46004DE2A3 /* ViewController.swift */,
 				9B4B59321A4ADB46004DE2A3 /* Main.storyboard */,
+				9BED9F291A4EAC0A00CC2015 /* images */,
 				9B4B59351A4ADB46004DE2A3 /* Images.xcassets */,
 				9B4B59371A4ADB46004DE2A3 /* LaunchScreen.xib */,
 				9B4B592C1A4ADB46004DE2A3 /* Supporting Files */,
@@ -110,6 +131,23 @@
 				9B4B59431A4ADB46004DE2A3 /* Info.plist */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		9BED9F291A4EAC0A00CC2015 /* images */ = {
+			isa = PBXGroup;
+			children = (
+				9BED9F2A1A4EAC0A00CC2015 /* could.png */,
+				9BED9F2B1A4EAC0A00CC2015 /* could@2x.png */,
+				9BED9F2C1A4EAC0A00CC2015 /* frost.png */,
+				9BED9F2D1A4EAC0A00CC2015 /* frost@2x.png */,
+				9BED9F2E1A4EAC0A00CC2015 /* rain.png */,
+				9BED9F2F1A4EAC0A00CC2015 /* rain@2x.png */,
+				9BED9F301A4EAC0A00CC2015 /* sun.png */,
+				9BED9F311A4EAC0A00CC2015 /* sun@2x.png */,
+				9BED9F321A4EAC0A00CC2015 /* thunder.png */,
+				9BED9F331A4EAC0A00CC2015 /* thunder@2x.png */,
+			);
+			path = images;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -192,9 +230,19 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9BED9F3D1A4EAC0A00CC2015 /* thunder@2x.png in Resources */,
 				9B4B59341A4ADB46004DE2A3 /* Main.storyboard in Resources */,
+				9BED9F351A4EAC0A00CC2015 /* could@2x.png in Resources */,
+				9BED9F3A1A4EAC0A00CC2015 /* sun.png in Resources */,
+				9BED9F391A4EAC0A00CC2015 /* rain@2x.png in Resources */,
+				9BED9F3B1A4EAC0A00CC2015 /* sun@2x.png in Resources */,
+				9BED9F371A4EAC0A00CC2015 /* frost@2x.png in Resources */,
+				9BED9F361A4EAC0A00CC2015 /* frost.png in Resources */,
 				9B4B59391A4ADB46004DE2A3 /* LaunchScreen.xib in Resources */,
+				9BED9F3C1A4EAC0A00CC2015 /* thunder.png in Resources */,
+				9BED9F381A4EAC0A00CC2015 /* rain.png in Resources */,
 				9B4B59361A4ADB46004DE2A3 /* Images.xcassets in Resources */,
+				9BED9F341A4EAC0A00CC2015 /* could.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -405,6 +453,7 @@
 				9B4B594A1A4ADB46004DE2A3 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		9B4B594B1A4ADB46004DE2A3 /* Build configuration list for PBXNativeTarget "weatherTests" */ = {
 			isa = XCConfigurationList;
@@ -413,6 +462,7 @@
 				9B4B594D1A4ADB46004DE2A3 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
